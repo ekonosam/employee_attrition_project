@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+statsmodels
+scikit-learn
+jupyter
 -e .
